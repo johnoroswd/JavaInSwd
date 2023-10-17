@@ -11,6 +11,7 @@
     <modules>
         <module>swd-thread-safe</module>
         <module>common-core</module>
+        <module>mq-service-rabbitmq</module>
     </modules>
 
     <properties>
