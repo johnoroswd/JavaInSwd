@@ -1,0 +1,26 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.18.191:8848
+        username: nacos
+        password: nacos
+        namespace: 2de2ae77-6cfd-4ae9-9410-5c8d45edb797
+        file-extension: yaml
+        group: dev
+        extension-configs:
+          - data-id: common.yml
+            group: common
+            refresh: true
+      discovery:
+        server-addr: 192.168.18.191:8848
+        username: nacos
+        password: nacos
+        namespace: 2de2ae77-6cfd-4ae9-9410-5c8d45edb797
+        group: dev
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

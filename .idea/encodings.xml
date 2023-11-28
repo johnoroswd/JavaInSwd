@@ -3,10 +3,24 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../../DocInCareer/DocInCareer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../DocInCareer/DocInCareer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-common-base-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-common-base-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-common-job-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-common-job-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/cloud-service-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-service-oracle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-service-oracle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mq-service-rabbitmq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mq-service-rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-service-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-service-rocketmq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swd-thread-safe/src/main/java" charset="UTF-8" />
